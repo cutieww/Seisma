@@ -5,12 +5,12 @@ This is the java code for the coding execise: Employee monthly pay slip
 - The code contians a main class for performing 3 different tests
 
 ## In my code, I assume:
-- All the inputs are valid (If it's invalid, then we can simply throw exceptions)
+- All the inputs are valid (If they are invalid, then we can simply throw exceptions)
 - The input type: 
     - first name, last name and starting date are String
     - annual salary is a normal Integer (we assume the salary wouldn't be too large for a bigInt)
     - super rate is a float type
-- Each test are performed sequentially, there is no mutithreading involved.
+- Each test is performed sequentially, there is no mutithreading involved.
 
 ## How to run the code:
 It's just a simple piece of java code. 
